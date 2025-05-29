@@ -1,7 +1,7 @@
 
 ![Screen Shot 2025-05-29 at 10 53 29 PM](https://github.com/user-attachments/assets/9934daf8-1900-4fd8-917a-f3caa10c2acc)
 
-```markdown
+
 # 📬 ConsoleSoft Mailer CLI
 
 A simple and powerful CLI tool for bulk email delivery—built by **Tim Adurah** under the **ConsoleSoft** brand.
