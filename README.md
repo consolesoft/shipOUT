@@ -25,9 +25,9 @@ List of recipient email addresses. Example:
 
 ```
 
-[example1@gmail.com](mailto:example1@gmail.com)
-[user2@yahoo.com](mailto:user2@yahoo.com)
-[test@example.org](mailto:test@example.org)
+example1@gmail.com
+user2@yahoo.com
+test@example.org
 
 ```
 
