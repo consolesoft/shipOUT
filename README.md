@@ -1,5 +1,5 @@
 
-![Screen Shot 2025-05-29 at 10 53 29 PM](https://github.com/user-attachments/assets/9934daf8-1900-4fd8-917a-f3caa10c2acc)
+![Screen Shot 2025-05-30 at 12 16 36 AM](https://github.com/user-attachments/assets/32db5612-f5de-4099-bbb5-b2b6aaeb2a30)
 
 
 # 📬 ConsoleSoft Mailer CLI
