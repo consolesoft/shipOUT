@@ -38,7 +38,7 @@ Contains the subject, reply-to email, and HTML content.
 ```
 
 subject: ConsoleSoft
-replyto: [tim.adurah@gmail.com](mailto:tim.adurah@gmail.com)
+replyto: tim.adurah@gmail.com
 writeup:<p style="font-family: Arial, sans-serif; font-size: 16px; color: #333333; line-height: 1.6;">
 Greetings from the team!<br>
 You received a message from <strong>Mr. Tope</strong>.<br> <a href="https://noderium.com" style="color: #1a73e8; text-decoration: none;">Visit us on Facebook</a>.
