@@ -77,7 +77,7 @@ You'll see your available quota.
 | `start`              | Start a new mailing session           |
 | `stop`               | Quit the application                  |
 | `results`            | Show summary of all delivery attempts |
-| `results`         | List all delivery results             |
+| `result get`         | List all delivery results             |
 | `result get [email]` | Check result for a specific email     |
 | `help`               | Display available commands            |
 | `version`            | Show current version                  |
