@@ -68,6 +68,12 @@ You'll see your available quota.
 * Results will be saved in:
   `results/your-project-name/`
 
+### 5. For those that have attachments eg pdf, image , files
+
+* copy paste all you attachments file into `/attachments` folder.
+* all attachments in the folder will be send with your email.
+  `/attachments`
+
 ---
 
 ## 📊 Commands
