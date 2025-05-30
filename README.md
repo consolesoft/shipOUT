@@ -103,4 +103,4 @@ results/your-project-name/
 ## 🧾 License
 
 MIT License
-© 2025 Tim Adurah — [ConsoleSoft](https://t.me/consolesoft)
+© 2025 By The Incognitus — [ConsoleSoft](https://t.me/consolesoft)
